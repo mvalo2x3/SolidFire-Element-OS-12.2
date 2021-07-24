@@ -1,0 +1,358 @@
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol10",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 180,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 1
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol11",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 181,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 2
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol12",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 182,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 3
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol13",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 183,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 4
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol14",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 184,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 5
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol15",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 185,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 6
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol16",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 186,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 7
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol17",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 187,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 8
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol18",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 188,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 9
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol19",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 189,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 10
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol20",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 190,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 11
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol21",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 191,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 12
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol22",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 192,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 13
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol23",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 193,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 14
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol24",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 194,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 15
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol25",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 195,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 16
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol26",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 196,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 17
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol27",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 197,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 18
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol28",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 198,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 19
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol29",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 199,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 20
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol30",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 200,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 21
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol31",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 201,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 22
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol32",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 202,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 23
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol33",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 203,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 24
+}
+
+{
+    "method": "CreateVolume",
+    "params": {
+        "name": "perfbench-r740xd03-Vol34",
+        "accountID": 2,
+        "totalSize": 100000000000,
+        "volumeID": 204,
+        "enable512e": true
+        },
+        "qosPolicyID": 1
+    },
+    "id": 25
+}
+
+{
+   "method": "AddVolumesToVolumeAccessGroup",
+   "params": {
+      "volumeAccessGroupID": 3,
+      "volumes": [180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204]
+   },
+"id": 26
+}
